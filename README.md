@@ -20,7 +20,7 @@ We have used IPFS(Inter-planetery file system) which is a decentralized file sys
    ```
 
 ## Login Page
-![WhatsApp Image 2025-03-29 at 08 43 11_9ef1afc6](https://github.com/user-attachments/assets/f8d992be-907c-4fe4-960e-7af901c4d1ea)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/af92972e-2fa2-4d97-b919-71d046b12fe4" />
 
 ## Upload Prescription Page
 ![WhatsApp Image 2025-03-29 at 08 43 24_251e12f3](https://github.com/user-attachments/assets/cab64832-5992-48a0-b430-39d74aa33105)
