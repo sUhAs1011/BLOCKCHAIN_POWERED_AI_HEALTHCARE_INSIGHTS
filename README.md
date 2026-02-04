@@ -1,4 +1,4 @@
-# HoC2_PS9_Hash_Bros
+# BLOCKCHAIN_POWERED_AI_HEALTHCARE_INSIGHTS
 
 Last week me along with my classmates have participated in Heal-O-Code 2.0 hackathon and we came in top-10 among the 50 teams that took part in the hackathon, our project was based on Blockchain-Powered Healthcare Insights along with generative AI
 
@@ -9,14 +9,14 @@ We have used IPFS(Inter-planetery file system) which is a decentralized file sys
 
 - **Frontend:**
    ```shell
-   streamlit run frontend.py
+   streamlit run streamlit_ui.py
    ```
 
 - **Backend:**
    ```shell
-   python flask4.py
+   python flask.py
    # or
-   python3 flas4k.py
+   python3 flask.py
    ```
 
 ## Login Page
